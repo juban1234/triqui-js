@@ -37,8 +37,11 @@ button {
   height: 5rem;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 5rem;
-  color: #ffffff;    
+  font-size: 3.5rem;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;    
 }
 
 button:hover {
